@@ -3,3 +3,8 @@ When using a collaborated project.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 To clear out any possibility of working on out-dated respository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is used to clone someone else respository into your github account.
+Clone is used to copy the contents of a respository onto your computer.
+Branches are used to separate respositories based their on master.
