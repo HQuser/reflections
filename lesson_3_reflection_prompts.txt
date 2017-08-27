@@ -15,3 +15,6 @@ To know what commits have been introduced in the origin apart from yours locally
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 By using other VCS softwares but that would be dificult since they are typically stored locally.
 The only easy thing in them is the control over the privacy.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+To add experimental features without touching the master branch.
